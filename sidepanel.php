@@ -2,10 +2,10 @@
 <nav class="pc-sidebar ">
 		<div class="navbar-wrapper">
 			<div class="m-header">
-				<a href="index.html" class="b-brand">
-					<!-- ========   change your logo hear   ============ -->
-					<img src="assets/images/logo.svg" alt="" class="logo logo-lg">
-					<img src="assets/images/logo-sm.svg" alt="" class="logo logo-sm">
+				<a href="index.php" class="b-brand">
+                    <!-- ========   change your logo hear   ============ -->
+                   <span class="pc-micon"><i data-feather="eye"></i></span><span class="pc-mtext">Vulnerablity Management</span>
+					
 				</a>
 			</div>
 			<div class="navbar-content">
@@ -14,8 +14,42 @@
 						<label>Navigation</label>
 					</li>
 					<li class="pc-item">
-						<a href="index.html" class="pc-link "><span class="pc-micon"><i data-feather="home"></i></span><span class="pc-mtext">Dashboard</span></a>
+						<a href="dashboard.php" class="pc-link "><span class="pc-micon"><i data-feather="home"></i></span><span class="pc-mtext">Dashboard</span></a>
 					</li>
+
+					<!-- New ****************** Start *******************-->
+					<li class="pc-item">
+						<a href="manage_credentials.php" class="pc-link "><span class="pc-micon"><i data-feather="home"></i></span><span class="pc-mtext">Manage Credentials</span></a>
+					</li>
+					<li class="pc-item">
+						<a href="manage_cwe.php" class="pc-link "><span class="pc-micon"><i data-feather="home"></i></span><span class="pc-mtext">CWE Manage</span></a>
+					</li>
+					<li class="pc-item">
+						<a href="manage_app_assessment_status.php" class="pc-link "><span class="pc-micon"><i data-feather="home"></i></span><span class="pc-mtext">App Assessment Status</span></a>
+					</li>
+					<li class="pc-item">
+						<a href="manage_vul_status.php" class="pc-link "><span class="pc-micon"><i data-feather="home"></i></span><span class="pc-mtext">Vulnerability Status</span></a>
+					</li>
+					<li class="pc-item">
+						<a href="manage_origin.php" class="pc-link "><span class="pc-micon"><i data-feather="home"></i></span><span class="pc-mtext">Manage Origin</span></a>
+					</li>
+					<li class="pc-item">
+						<a href="manage_app_access_type.php" class="pc-link "><span class="pc-micon"><i data-feather="home"></i></span><span class="pc-mtext">Manage App access Type</span></a>
+					</li>
+
+					<li class="pc-item">
+						<a href="manage_app_status.php" class="pc-link "><span class="pc-micon"><i data-feather="home"></i></span><span class="pc-mtext">Manage Application Status</span></a>
+					</li>
+					<li class="pc-item">
+						<a href="manage_app_platform.php" class="pc-link "><span class="pc-micon"><i data-feather="home"></i></span><span class="pc-mtext">Manage App Platform</span></a>
+					</li>
+					<li class="pc-item">
+						<a href="manage_app_environment.php" class="pc-link "><span class="pc-micon"><i data-feather="home"></i></span><span class="pc-mtext">Manage App Environment</span></a>
+					</li>
+					<li class="pc-item">
+						<a href="manage_app_business_criticality.php" class="pc-link "><span class="pc-micon"><i data-feather="home"></i></span><span class="pc-mtext">Manage Business Criticality</span></a>
+					</li>
+					<!-- New ****************** End *******************-->
 					<li class="pc-item pc-caption">
 						<label>Elements</label>
 						<span>UI Components</span>

@@ -13,7 +13,7 @@
     <meta name="author" content="Phoenixcoded" />
 
     <!-- Favicon icon -->
-    <link rel="icon" href="assets/images/favicon.svg" type="image/x-icon">
+    <link rel="icon" href="assets/images/logo/logo.png" hight="100px" width="100px" type="image/x-icon">
 
     <!-- font css -->
     <link rel="stylesheet" href="assets/fonts/font-awsome-pro/css/pro.min.css">

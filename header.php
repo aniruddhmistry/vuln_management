@@ -1,116 +1,22 @@
-<header class="pc-header ">
-		<div class="header-wrapper">
-			<div class="mr-auto pc-mob-drp">
-				<ul class="list-unstyled">
-					<li class="dropdown pc-h-item">
-						<a class="pc-head-link active dropdown-toggle arrow-none mr-0" data-toggle="dropdown" href="#" role="button" aria-haspopup="false" aria-expanded="false">
-							Level
-						</a>
-						<div class="dropdown-menu pc-h-dropdown">
-							<a href="#!" class="dropdown-item">
-								<i data-feather="user"></i>
-								<span>My Account</span>
-							</a>
-							<div class="pc-level-menu">
-								<a href="#!" class="dropdown-item">
-									<i data-feather="menu"></i>
-									<span class="float-right"><i data-feather="chevron-right" class="mr-0"></i></span>
-									<span>Level2.1</span>
-								</a>
-								<div class="dropdown-menu pc-h-dropdown">
-									<a href="#!" class="dropdown-item">
-										<i class="fas fa-circle"></i>
-										<span>My Account</span>
-									</a>
-									<a href="#!" class="dropdown-item">
-										<i class="fas fa-circle"></i>
-										<span>Settings</span>
-									</a>
-									<a href="#!" class="dropdown-item">
-										<i class="fas fa-circle"></i>
-										<span>Support</span>
-									</a>
-									<a href="#!" class="dropdown-item">
-										<i class="fas fa-circle"></i>
-										<span>Lock Screen</span>
-									</a>
-									<a href="#!" class="dropdown-item">
-										<i class="fas fa-circle"></i>
-										<span>Logout</span>
-									</a>
-								</div>
-							</div>
-							<a href="#!" class="dropdown-item">
-								<i data-feather="settings"></i>
-								<span>Settings</span>
-							</a>
-							<a href="#!" class="dropdown-item">
-								<i data-feather="life-buoy"></i>
-								<span>Support</span>
-							</a>
-							<a href="#!" class="dropdown-item">
-								<i data-feather="lock"></i>
-								<span>Lock Screen</span>
-							</a>
-							<a href="#!" class="dropdown-item">
-								<i data-feather="power"></i>
-								<span>Logout</span>
-							</a>
-						</div>
-					</li>
-				</ul>
-			</div>
-			<div class="ml-auto">
-				<ul class="list-unstyled">
-					<li class="dropdown pc-h-item">
-						<a class="pc-head-link dropdown-toggle arrow-none mr-0" data-toggle="dropdown" href="#" role="button" aria-haspopup="false" aria-expanded="false">
-							<i data-feather="search"></i>
-						</a>
-						<div class="dropdown-menu dropdown-menu-right pc-h-dropdown drp-search">
-							<form class="px-3">
-								<div class="form-group mb-0 d-flex align-items-center">
-									<i data-feather="search"></i>
-									<input type="search" class="form-control border-0 shadow-none" placeholder="Search here. . .">
-								</div>
-							</form>
-						</div>
-					</li>
-					<li class="dropdown pc-h-item">
-						<a class="pc-head-link dropdown-toggle arrow-none mr-0" data-toggle="dropdown" href="#" role="button" aria-haspopup="false" aria-expanded="false">
-							<img src="assets/images/user/avatar-2.jpg" alt="user-image" class="user-avtar">
-							<span>
-								<span class="user-name">Joseph William</span>
-								<span class="user-desc">Administrator</span>
-							</span>
-						</a>
-						<div class="dropdown-menu dropdown-menu-right pc-h-dropdown">
-							<div class=" dropdown-header">
-								<h6 class="text-overflow m-0">Welcome !</h6>
-							</div>
-							<a href="#!" class="dropdown-item">
-								<i data-feather="user"></i>
-								<span>My Account</span>
-							</a>
-							<a href="#!" class="dropdown-item">
-								<i data-feather="settings"></i>
-								<span>Settings</span>
-							</a>
-							<a href="#!" class="dropdown-item">
-								<i data-feather="life-buoy"></i>
-								<span>Support</span>
-							</a>
-							<a href="#!" class="dropdown-item">
-								<i data-feather="lock"></i>
-								<span>Lock Screen</span>
-							</a>
-							<a href="#!" class="dropdown-item">
-								<i data-feather="power"></i>
-								<span>Logout</span>
-							</a>
-						</div>
-					</li>
-				</ul>
-			</div>
+<title>Nextro Able Bootstrap 4 Admin Template</title>
+	<!-- HTML5 Shim and Respond.js IE11 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!-- Meta -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="">
+	<meta name="author" content="Phoenixcoded" />
 
-		</div>
-	</header>
+	<!-- Favicon icon -->
+	<link rel="icon" href="assets/images/favicon.svg" type="image/x-icon">
+
+	<!-- font css -->
+	<link rel="stylesheet" href="assets/fonts/font-awsome-pro/css/pro.min.css">
+	<link rel="stylesheet" href="assets/fonts/feather.css">
+	<link rel="stylesheet" href="assets/fonts/fontawesome.css">
+
+	<!-- vendor css -->
+	<link rel="stylesheet" href="assets/css/style.css">
+	<link rel="stylesheet" href="assets/css/customizer.css">
