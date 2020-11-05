@@ -1,2 +1,2 @@
-# vuln_management
+# Vulnerability Management
 Vulnerability management 
